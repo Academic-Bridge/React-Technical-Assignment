@@ -1,6 +1,6 @@
 # React Technical Assignment
 
-# DON'T TAKE MORE THAN 7 DAYS, AFTER RECEPTION, BEFORE SUBMITTING YOUR SOLUTION
+# DON'T TAKE MORE THAN 6 DAYS, AFTER RECEPTION, BEFORE SUBMITTING YOUR SOLUTION
 
 ## Description
 
@@ -12,18 +12,23 @@ A TODO app🤪, not very original but it will help us to assess your designer sk
 
 ## Stack/Tools
 
-- React with TypeScript or JavaScript, choose whatever you're more comfortable with
+- React with TypeScript or Typescript, yeah !
 - Jest & React Testing Library
 - Zustand, React context or Redux
 - Tanstack query (React query)
+- Tanstack Table
 - React Router
 - Tailwind CSS
+
 
 ## Task
 
 Following this design
-
-![image](https://github.com/user-attachments/assets/e8b88ba3-b583-47ce-b191-a1f641540713)
+<div style="display: flex; gap: 3px;">
+  
+<img width="830" height="590" alt="Screenshot 2025-09-16 at 00 16 36" src="https://github.com/user-attachments/assets/4e69026f-e5c5-4659-b1c9-814de4e090cc" />
+<img width="830" height="830" alt="Screenshot 2025-09-16 at 00 19 36" src="https://github.com/user-attachments/assets/4d1a23f8-215c-46db-9e89-0c040e181a6e" />
+</div>
 
 
 - Create a task manager app that reflects the above design both in terms of responsiveness, UI and UX(make it look alive )
@@ -39,8 +44,12 @@ Following this design
 To make your application standout from the lot🤓😉
 
 - Make sure all the tasks above are completed before tackling the points below
+- Using Shadcn would be a plus
 - Add GitHub actions that run all tests on PR events
 - E2E tests 🔥🔥🔥 for at least 2 CRUD operations
+- And if you realy want to wooow 🤩😉 us:
+<img width="830" height="589" alt="Screenshot 2025-09-16 at 00 23 06" src="https://github.com/user-attachments/assets/04d6b9db-61a2-4d44-8946-81059060dc43" />
+
 
 ## Submission
 
